@@ -16,5 +16,5 @@ Effortless Quote Fetching: Seamlessly generate random quotes from a vast collect
 - Clone the repository.
 - Run the live server and embark on your journey of inspiration!
 
-[!App Preview](images/quote.png)
+![App Preview](images/quote.png)
 
